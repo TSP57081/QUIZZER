@@ -8,5 +8,10 @@
     <string name="listening">LISTENING</string>
     <string name="reading">READING</string>
     <string name="writing">WRITING</string>
+    <string name="speaking">SPEAKING</string>
     <string name="progress">SEE YOUR PROGRESS</string>
+    <string name="listening_icon">Listening</string>
+    <string name="reading_icon">Reading_Icon</string>
+    <string name="writing_icon">Writing_Icon</string>
+    <string name="reviewprogressicon">ReviewProgressIcon</string>
 </resources>
