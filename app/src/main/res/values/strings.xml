@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QUIZZER</string>
+    <string name="hola">Hello there,</string>
+    <string name="lets_go">What do you like to work on?</string>
+    <string name="morning">Good Morning</string>
+    <string name="afternoon">Good Afternoon!</string>
+    <string name="evening">Good evening!</string>
+    <string name="listening">LISTENING</string>
+    <string name="reading">READING</string>
+    <string name="writing">WRITING</string>
+    <string name="progress">SEE YOUR PROGRESS</string>
+</resources>
